@@ -1,0 +1,1 @@
+A small script that routes stdout and stderr for single file code testing. Can be used for competitive programming competitions to test submissions that have a pre-defined input and output requirement.
